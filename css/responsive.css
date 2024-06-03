@@ -8,7 +8,12 @@
   }
 
   .hero_area {
-    background: linear-gradient(130deg, #231a6f, #0f054c);
+    background: linear-gradient(130deg, #aba6d5, #3923c8);
+  }
+
+
+  .about_section {
+    background: linear-gradient(130deg, #95abd2, #9c90ed);
   }
 
   .hero_area .hero_bg_box {
